@@ -20,6 +20,7 @@ Authenticated users can:
 
 #### 🗂️ Project Structure
 - TodosAPI_Project/
+  
 │── app.py
 
 │── .gitignore
@@ -39,7 +40,7 @@ Authenticated users can:
 - Install dependencies:
 - pip install -r requirements.txt
 - Run the app: python run.py
- -copy the url: http://127.0.0.1:5000\
+-copy the url: http://127.0.0.1:5000\
 
   
 
