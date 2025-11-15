@@ -1,4 +1,4 @@
-# Todo REST_API Project
+## Todo REST_API Project
 
 #### Features
 - User Registration
@@ -21,9 +21,13 @@ Authenticated users can:
 #### 🗂️ Project Structure
 - TodosAPI_Project/
 │── app.py
+
 │── .gitignore
+
 │── requirements.txt
+
 │── README.md
+
 │── instance/test.db(auto-created)
 
 #### Installation & Setup
